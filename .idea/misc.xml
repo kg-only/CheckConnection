@@ -3,7 +3,12 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/AKanatbek/AndroidStudioProjects/CheckConnection/app/src/main/res/layout/activity_main.xml" value="0.12552083333333333" />
+        <entry key="..\:/Users/AKanatbek/AndroidStudioProjects/CheckConnection/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.16" />
+        <entry key="..\:/Users/AKanatbek/AndroidStudioProjects/CheckConnection/app/src/main/res/drawable/ic_baseline_wifi_24.xml" value="0.16" />
+        <entry key="..\:/Users/AKanatbek/AndroidStudioProjects/CheckConnection/app/src/main/res/drawable/ic_imgsvg.xml" value="0.16" />
+        <entry key="..\:/Users/AKanatbek/AndroidStudioProjects/CheckConnection/app/src/main/res/drawable/ic_launcher_background.xml" value="0.16" />
+        <entry key="..\:/Users/AKanatbek/AndroidStudioProjects/CheckConnection/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/AKanatbek/AndroidStudioProjects/CheckConnection/app/src/main/res/layout/item_view.xml" value="0.27291666666666664" />
       </map>
     </option>
   </component>
